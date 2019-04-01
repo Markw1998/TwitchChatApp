@@ -1,0 +1,632 @@
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchApp.exe.config
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchApp.exe
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchApp.pdb
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\netstandard.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.AppContext.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Collections.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Console.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Data.Common.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Globalization.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.Compression.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.Pipes.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Linq.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Http.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Ping.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Primitives.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Requests.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Security.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ObjectModel.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Reflection.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Resources.Reader.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Resources.Writer.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Claims.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Principal.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.SecureString.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Text.Encoding.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Thread.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Timer.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XPath.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.Extensions.Logging.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Buffers.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Memory.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Core.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Core.Enums.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Core.Interfaces.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Core.Models.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Helix.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Helix.Models.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.V5.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.V5.Models.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Client.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Client.Enums.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Client.Models.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Communication.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.PubSub.dll
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.pdb
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.xml
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.Extensions.Logging.xml
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Buffers.xml
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Memory.xml
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.csprojAssemblyReference.cache
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.exe.config
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\MainWindow.g.cs
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\App.g.cs
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp_MarkupCompile.cache
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp_MarkupCompile.lref
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\MainWindow.baml
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.g.resources
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.csproj.CoreCompileInputs.cache
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.csproj.CopyComplete
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.exe
+C:\Users\Mark Walsh\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.pdb
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchApp.exe.config
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchApp.exe
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchApp.pdb
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\netstandard.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.AppContext.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Collections.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Console.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Data.Common.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Globalization.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.Compression.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.Pipes.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Linq.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Http.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Ping.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Primitives.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Requests.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Security.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ObjectModel.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Reflection.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Resources.Reader.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Resources.Writer.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Claims.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Principal.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.SecureString.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Text.Encoding.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Thread.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Timer.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ValueTuple.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XPath.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.Extensions.Logging.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Buffers.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Memory.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Core.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Core.Enums.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Core.Interfaces.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Core.Models.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Helix.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Helix.Models.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.V5.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.V5.Models.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Client.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Client.Enums.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Client.Models.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Communication.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.PubSub.dll
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.pdb
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.xml
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.Extensions.Logging.xml
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Buffers.xml
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Memory.xml
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.csprojAssemblyReference.cache
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.exe.config
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\MainWindow.g.cs
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\App.g.cs
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp_MarkupCompile.cache
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp_MarkupCompile.lref
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\MainWindow.baml
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.g.resources
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.csproj.CoreCompileInputs.cache
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.csproj.CopyComplete
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.exe
+C:\Users\S00181377\OneDrive - Institute of Technology Sligo\C Sharp\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.pdb
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchApp.exe.config
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchApp.exe
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchApp.pdb
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\netstandard.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.AppContext.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Collections.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Console.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Data.Common.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Globalization.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.Compression.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.Pipes.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Linq.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Http.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Ping.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Primitives.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Requests.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Security.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ObjectModel.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Reflection.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Resources.Reader.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Resources.Writer.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Claims.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Principal.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.SecureString.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Text.Encoding.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Thread.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Timer.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ValueTuple.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XPath.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.Extensions.Logging.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Buffers.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Memory.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Core.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Core.Enums.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Core.Interfaces.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Core.Models.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Helix.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Helix.Models.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.V5.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.V5.Models.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Client.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Client.Enums.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Client.Models.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Communication.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.PubSub.dll
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.pdb
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.xml
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.Extensions.Logging.xml
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Buffers.xml
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Memory.xml
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.csprojAssemblyReference.cache
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.exe.config
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\obj\Debug\MainWindow.g.cs
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\obj\Debug\App.g.cs
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp_MarkupCompile.cache
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp_MarkupCompile.lref
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\obj\Debug\MainWindow.baml
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.g.resources
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.csproj.CoreCompileInputs.cache
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.csproj.CopyComplete
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.exe
+C:\Users\S00181377\Desktop\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.pdb
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchApp.exe.config
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchApp.exe
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchApp.pdb
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Win32.Primitives.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\netstandard.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.AppContext.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Collections.Concurrent.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Collections.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Collections.NonGeneric.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Collections.Specialized.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.Primitives.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Console.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Data.Common.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Contracts.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Debug.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Process.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.StackTrace.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Tools.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.TraceSource.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Diagnostics.Tracing.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Drawing.Primitives.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Dynamic.Runtime.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Globalization.Calendars.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Globalization.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Globalization.Extensions.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.Compression.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.Compression.ZipFile.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.FileSystem.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.IsolatedStorage.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.Pipes.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Linq.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Linq.Expressions.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Linq.Parallel.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Linq.Queryable.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Http.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.NameResolution.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.NetworkInformation.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Ping.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Primitives.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Requests.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Security.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.Sockets.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.WebHeaderCollection.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.WebSockets.Client.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Net.WebSockets.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ObjectModel.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Reflection.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Reflection.Extensions.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Reflection.Primitives.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Resources.Reader.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Resources.ResourceManager.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Resources.Writer.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Extensions.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Handles.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.InteropServices.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Numerics.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Serialization.Json.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Claims.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.Csp.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.Principal.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Security.SecureString.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Text.Encoding.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Text.Encoding.Extensions.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Text.RegularExpressions.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Overlapped.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Tasks.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Thread.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.ThreadPool.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Threading.Timer.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ValueTuple.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.ReaderWriter.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XDocument.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XmlDocument.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XmlSerializer.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XPath.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Xml.XPath.XDocument.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Logging.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Options.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Newtonsoft.Json.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.Extensions.Logging.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Buffers.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.ComponentModel.Annotations.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Memory.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Numerics.Vectors.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Core.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Core.Enums.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Core.Interfaces.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Core.Models.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Helix.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.Helix.Models.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.V5.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Api.V5.Models.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Client.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Client.Enums.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Client.Models.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.Communication.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\TwitchLib.PubSub.dll
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.xml
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Logging.xml
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Options.xml
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Newtonsoft.Json.pdb
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Newtonsoft.Json.xml
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.pdb
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.xml
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\Serilog.Extensions.Logging.xml
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Buffers.xml
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Memory.xml
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Numerics.Vectors.xml
+H:\TwitchApp\TwitchApp\TwitchApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.csprojAssemblyReference.cache
+H:\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.exe.config
+H:\TwitchApp\TwitchApp\TwitchApp\obj\Debug\MainWindow.g.cs
+H:\TwitchApp\TwitchApp\TwitchApp\obj\Debug\App.g.cs
+H:\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp_MarkupCompile.cache
+H:\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp_MarkupCompile.lref
+H:\TwitchApp\TwitchApp\TwitchApp\obj\Debug\MainWindow.baml
+H:\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.g.resources
+H:\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.csproj.CoreCompileInputs.cache
+H:\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.csproj.CopyComplete
+H:\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.exe
+H:\TwitchApp\TwitchApp\TwitchApp\obj\Debug\TwitchApp.pdb
