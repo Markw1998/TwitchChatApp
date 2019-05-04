@@ -793,3 +793,11 @@ C:\Users\Mark Walsh\Source\Repos\TwitchChatApp\TwitchApp\bin\Debug\EntityFramewo
 C:\Users\Mark Walsh\Source\Repos\TwitchChatApp\TwitchApp\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Mark Walsh\Source\Repos\TwitchChatApp\TwitchApp\bin\Debug\EntityFramework.xml
 C:\Users\Mark Walsh\Source\Repos\TwitchChatApp\TwitchApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mark Walsh\Source\Repos\TwitchChatApp\TwitchApp\bin\Debug\ControlzEx.dll
+C:\Users\Mark Walsh\Source\Repos\TwitchChatApp\TwitchApp\bin\Debug\MahApps.Metro.dll
+C:\Users\Mark Walsh\Source\Repos\TwitchChatApp\TwitchApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Mark Walsh\Source\Repos\TwitchChatApp\TwitchApp\bin\Debug\ControlzEx.xml
+C:\Users\Mark Walsh\Source\Repos\TwitchChatApp\TwitchApp\bin\Debug\MahApps.Metro.pdb
+C:\Users\Mark Walsh\Source\Repos\TwitchChatApp\TwitchApp\bin\Debug\MahApps.Metro.xml
+C:\Users\Mark Walsh\Source\Repos\TwitchChatApp\TwitchApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Mark Walsh\Source\Repos\TwitchChatApp\TwitchApp\obj\Debug\App.baml
