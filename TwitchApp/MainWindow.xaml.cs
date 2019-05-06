@@ -9,20 +9,53 @@ using System.Linq;
 using MahApps.Metro.Controls;
 using Newtonsoft.Json;
 using System.IO;
+using System.ComponentModel;
 
 namespace TwitchApp
 {
-    public partial class MainWindow : MetroWindow
+    public partial class MainWindow : MetroWindow, INotifyPropertyChanged
     {
+        //DB Declare and Instantiation
         Model1Container db = new Model1Container();
+        //Client Declare and Instantiation
         TwitchClient client = new TwitchClient();
+        //Obersvable Declare and Instantiation
         public ObservableCollection<string> ChatList = new ObservableCollection<string>();
 
+        //Event Handler for INotify
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        //INotify
+        private int _NoOfMessages;
+        //INotify
+        public int NoOfMessages
+        {
+            get
+            {
+                return _NoOfMessages;
+            }
+            set
+            {
+                _NoOfMessages = value;
+                RaisePropertyChanged("NoOfMessages");
+
+            }
+        }
+
+        //Window Intialisation
         public MainWindow()
         {
-            Bot bot = new Bot();
             InitializeComponent();
             ChatBox.ItemsSource = ChatList;
+        }
+
+        //RaiseProperty For INotify
+        private void RaisePropertyChanged(string propertyName)
+        {
+            if (PropertyChanged != null)
+            {
+                PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
+            }
         }
 
         //Search for channel
@@ -48,6 +81,7 @@ namespace TwitchApp
                 client.OnJoinedChannel += Client_OnJoinedChannel;
                 client.OnMessageReceived += Client_OnMessageReceived;
                 client.OnNewSubscriber += Client_OnNewSubscriber;
+                client.OnReSubscriber += Client_OnResubcriber;
 
                 SearchBox.Clear();
 
@@ -60,7 +94,7 @@ namespace TwitchApp
         {
             Dispatcher.InvokeAsync(new Action(() =>
             {
-                ChatList.Add($"Connected to {e.AutoJoinChannel}\n");
+                ChatList.Add($"Connecting to {e.AutoJoinChannel}\n");
             }
             ));
         }
@@ -80,7 +114,10 @@ namespace TwitchApp
             Dispatcher.InvokeAsync(new Action(() =>
             {
                 ChatList.Add($"{e.ChatMessage.Username}: {e.ChatMessage.Message}");
-                xx.ScrollToBottom();
+
+                //INotify
+                NoOfMessages++;
+                messagesNoTxt.Text = NoOfMessages.ToString();
 
                 //Storing UserName and Message into database
                 ChatLog tl = new ChatLog()
@@ -91,6 +128,9 @@ namespace TwitchApp
                 db.ChatLogs.Add(tl);
                 db.SaveChanges();
 
+                //Basically a way for autoscrolling as ScrollToBottom() Method doesn't work for me.
+                ChatBox.SelectedIndex = ChatBox.Items.Count - 1;
+                ChatBox.ScrollIntoView(ChatBox.SelectedItem);
 
             }), DispatcherPriority.Background);
         }
@@ -101,6 +141,10 @@ namespace TwitchApp
             Dispatcher.InvokeAsync(new Action(() =>
             {
                 ChatList.Add($"{e.Subscriber.SystemMessageParsed}");
+
+                //INotify
+                NoOfMessages++;
+                messagesNoTxt.Text = NoOfMessages.ToString();
             }), DispatcherPriority.Background);
         }
 
@@ -110,9 +154,14 @@ namespace TwitchApp
             Dispatcher.InvokeAsync(new Action(() =>
             {
                 ChatList.Add($"{e.ReSubscriber.SystemMessageParsed}");
+
+                //INotify
+                NoOfMessages++;
+                messagesNoTxt.Text = NoOfMessages.ToString();
             }), DispatcherPriority.Background);
         }
 
+        //Save Chat to JSON File
         private void JsonSave_Click(object sender, RoutedEventArgs e)
         {
             string json = JsonConvert.SerializeObject(ChatList, Formatting.Indented);
@@ -123,6 +172,7 @@ namespace TwitchApp
             }
         }
 
+        //Button Click to Display ChatLogs in DataGrid
         private void RetrieveBtn_Click(object sender, RoutedEventArgs e)
         {
             var query = from m in db.ChatLogs

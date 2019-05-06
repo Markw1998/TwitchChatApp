@@ -74,6 +74,8 @@ namespace TwitchApp {
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.0.0.0")]
         public static void Main() {
+            SplashScreen splashScreen = new SplashScreen("splashscreen.png");
+            splashScreen.Show(true);
             TwitchApp.App app = new TwitchApp.App();
             app.InitializeComponent();
             app.Run();

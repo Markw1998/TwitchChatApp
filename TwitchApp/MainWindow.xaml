@@ -13,20 +13,22 @@
         <TabItem Name="Chat" Header="Chat" Width="80">
             <Grid>
                 <Grid.RowDefinitions>
-                    <RowDefinition Height="90*"/>
-                    <RowDefinition Height="301*"/>
+                    <RowDefinition Height="46*"/>
+                    <RowDefinition Height="141*"/>
                 </Grid.RowDefinitions>
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="217*"/>
                     <ColumnDefinition Width="575*"/>
                 </Grid.ColumnDefinitions>
-                <Button x:Name="Search_Btn" Content="Search" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Center" Margin="10,40,10,10" VerticalAlignment="Top" Width="120" Click="Search_Btn_Click" Height="20"/>
-                <TextBox x:Name="SearchBox" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Center" Height="23" Margin="10,10,10,10" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-                <Button x:Name="JsonSave" Content="Save Chat" Grid.Column="0" Grid.Row="2" HorizontalAlignment="Center" Margin="10,40,10,10" VerticalAlignment="Top" Width="120" Height="20" Click="JsonSave_Click"/>
+                <Button x:Name="Search_Btn" Content="Search" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Center" Margin="48,60,47,0" VerticalAlignment="Top" Width="120" Click="Search_Btn_Click" Height="25"/>
+                <TextBox x:Name="SearchBox" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Center" Height="26" Margin="48,30,47,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                <Button x:Name="JsonSave" Content="Save Chat" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" Margin="50,254,47,0" VerticalAlignment="Top" Width="120" Height="25" Click="JsonSave_Click"/>
 
 
-                <ScrollViewer x:Name="xx" HorizontalAlignment="Center" Height="350" Margin="72,40,22,0" VerticalAlignment="Top" Width="477" Grid.Column="1" Grid.RowSpan="2">
-                    <ListBox x:Name="ChatBox" Width="480" Height="342"/>
+                <TextBlock x:Name="messagesNoTxt" Grid.Row="1" Width="50" Height="20" Margin="100,180,-30,0"></TextBlock>
+                <TextBlock Grid.Row="1" Width="110" Height="20" Margin="0,180,40,0" Text="Messages Received:"></TextBlock>
+                <ScrollViewer x:Name="xx" HorizontalAlignment="Center" Margin="37,22,57,32" Width="477" Grid.Column="1" Grid.RowSpan="2" Background="#FFF3F3F3" Foreground="{x:Null}">
+                    <ListBox x:Name="ChatBox" Margin="12,0,0,0" Width="480" Height="305" Foreground="#FFDAD1D1" Background="White"/>
                 </ScrollViewer>
 
             </Grid>
@@ -35,10 +37,10 @@
             <Grid>
                 <Grid.RowDefinitions>
                     <RowDefinition Height="62*"/>
-                    <RowDefinition Height="217*"/>
-                    <RowDefinition Height="95*"/>
+                    <RowDefinition Height="285*"/>
+                    <RowDefinition Height="27*"/>
                 </Grid.RowDefinitions>
-                <DataGrid x:Name="dgChat" Grid.Row="1" Width="700" Height="180" HorizontalAlignment="Center">
+                <DataGrid x:Name="dgChat" Grid.Row="1" Width="700" HorizontalAlignment="Center" Margin="43,18,35,19">
                     <DataGrid.BorderBrush>
                         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                             <GradientStop Color="Black" Offset="0"/>
@@ -46,7 +48,7 @@
                         </LinearGradientBrush>
                     </DataGrid.BorderBrush>
                 </DataGrid>
-                <Button x:Name="RetrieveBtn" Content="Display Logs" Width="80" Height="10" Click="RetrieveBtn_Click"/>
+                <Button x:Name="RetrieveBtn" Content="Display Logs" Click="RetrieveBtn_Click" Margin="353,18"/>
             </Grid>
         </TabItem>
     </TabControl>
